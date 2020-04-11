@@ -3,7 +3,7 @@ def new_hash
 	return new_h
 end
 
-def actor
+def actor(name)
 
 end
 
